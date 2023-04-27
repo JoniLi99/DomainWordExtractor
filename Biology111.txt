@@ -8,6 +8,7 @@
 -methylguanosine cap
 -pleated sheet
 A
+A
 A horizon
 ATP
 Abdomen
@@ -21,6 +22,7 @@ Absorption spectrum
 Abstract
 Abundance
 Abyssal zone
+Ac
 Access for free at openstax
 Accessory fruits
 Acclimatization
@@ -205,6 +207,7 @@ Axillary bud
 Axon
 Axon hillock
 Axon terminals
+Ayan
 B
 B cells
 B horizon
@@ -248,7 +251,6 @@ Biodiversity hotspots
 Bioenergetics
 Biofilm
 Biogeochemical cycle
-Biogeography
 Biogeography
 Biological community
 Biological macromolecules
@@ -674,7 +676,6 @@ Endocrine cells
 Endocrine glands
 Endocrine signals
 Endocytosis
-Endocytosis
 Endodermis
 Endomycorrhizae
 Endoplasmic reticulum
@@ -990,7 +991,6 @@ Horizontal transmission
 Hormonal stimuli
 Hormone
 Hormones
-Hormones
 Horsetails
 Host
 Host DNA
@@ -1114,6 +1114,7 @@ Iridophores
 Iris
 Irregular bones
 Irreversible
+Is
 Island biogeography
 Islets of Langerhans
 Isomerase
@@ -1128,6 +1129,7 @@ Jacobson's organ
 Jasmonates
 Jejunum
 Joint
+Joni
 Juxtaglomerular cells
 Juxtamedullary nephrons
 K
@@ -1223,7 +1225,6 @@ Luteinizing hormone
 Lycopodiophyta
 Lymph
 Lymph nodes
-Lymphocytes
 Lymphocytes
 Lysis
 Lysis buffer
@@ -1511,7 +1512,6 @@ Osmotic pressure
 Osseous tissue
 Ossicles
 Ossification
-Ossification
 Osteichthyes
 Osteoblasts
 Osteoclasts
@@ -1534,7 +1534,6 @@ Oxygen
 Oxygen dissociation curve
 Oxygen-carrying capacity
 Oxytocin
-P
 P
 PCR)
 PH scale
@@ -1633,7 +1632,6 @@ Phosphoanhydride bonds
 Phosphodiester
 Phosphodiesterase
 Phospholipids
-Phosphorylation
 Phosphorylation
 Photic zone
 Photoact
@@ -1768,7 +1766,6 @@ Prosthetic group
 Proteases
 Proteasome
 Protein signature
-Proteins
 Proteins
 Proteome
 Proteomics
@@ -2376,5 +2373,5 @@ Zoonotic diseases
 Zooplankton
 Zygomycota
 Zygospores
-Α
-Β
+Î
+Î
