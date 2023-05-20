@@ -1,4 +1,3 @@
-
 ' UTR
 ' cap
 (HCO
@@ -7,85 +6,158 @@
 -helix
 -methylguanosine cap
 -pleated sheet
-A
 A horizon
+ABO blood group
 ATP
+ATP synthase
+ATPase
 Abdomen
+Abdominal aorta
+Abdominopelvic cavity
+Abducens nerve
+Abduct
 Abduction
+Abductor
+Abductor digiti minimi
+Abductor pollicis brevis
+Abductor pollicis longus
 Abiotic
 Aboral madreporite
 Above-ground biomass
 Abscisic acid
 Abscission
+Absolute refractory period
+Absorption
 Absorption spectrum
+Absorptive state
 Abstract
 Abundance
 Abyssal zone
 Ac
 Access for free at openstax
+Accessory digestive organ
+Accessory duct
 Accessory fruits
 Acclimatization
+Accommodation
+Acetabular labrum
+Acetabulum
 Acetyl CoA
+Acetyl coenzyme A (acetyl
 Acetylcholine
 Acetylcholinesterase
 Acid
 Acid rain
+Acinus
+Acne
 Acoelomates
 Acromegaly
+Acromial end of the clavicle
+Acromial process
+Acromioclavicular joint
+Acromion
+Acrosomal reaction
 Acrosomal reactions
+Acrosome
 Actin
 Actinopterygii
 Action potential
 Activation energy
+Activation gate
 Activators
+Active immunity
 Active site
 Active transport
 Acute disease
+Acute inflammation
+Acute mountain sickness
 Adaptation
 Adaptive evolution
+Adaptive immune response
 Adaptive immunity
 Adaptive radiation
 Addison
 Adduction
+Adductor
+Adductor brevis
+Adductor longus
+Adductor magnus
+Adductor pollicis
+Adductor tubercle
 Adenosine triphosphate
 Adenylyl cyclase
 Adhesion
+Adipocytes
+Adipose tissue
+Adrenal artery
 Adrenal cortex
 Adrenal glands
 Adrenal medulla
+Adrenal vein
+Adrenergic
 Adrenocorticotropic hormone
 Adventitious
 Adventitious roots
 Aerobic
 Aerobic respiration
 Afferent arteriole
+Afferent branch
+Afferent lymphatic vessels
 Affinities
+Afterbirth
+Afterload
 Age structure
+Agglutination
 Aggregate fruit
 Aggressive displays
 Agnatha
+Agonist
+Agranular leukocytes
 Air sacs
+Ala
+Alar cartilage
+Alar plate
+Alarm reaction
+Albinism
+Albumin
 Aldosterone
 Aleurone
 Algal bloom
 Alimentary canal
 Aliphatic hydrocarbons
+Alkaloid
+Alkaloids
 Allantois
+Allele
 Allele frequency
 Alleles
 Allergy
 Allopatric speciation
 Allopolyploid
 Allosteric inhibition
+Alpha -adrenergic receptor
+Alpha cell
 Alpha cells
 Alteration
 Alveolar P O
+Alveolar dead space
+Alveolar duct
 Alveolar ducts
+Alveolar macrophage
+Alveolar pore
+Alveolar pores
+Alveolar process of the
+Alveolar process of the maxilla
+Alveolar sac
 Alveolar sacs
 Alveolar ventilation
 Alveoli
+Alveolus
 Alzheimer
+Amacrine cell
+Amacrine cells
 Ambulacral
+Amino acid
 Amino acid-derived
 Amino acids
 Aminoacyl tRNA
@@ -95,160 +167,341 @@ Ammonification
 Ammonotelic
 Amnion
 Amniote embryo
+Amniotic cavity
 Amniotic egg
 Amoebocytes
 Amphiarthroses
+Amphiarthrosis
 Amphibolic
+Amphipathic
 Amphiphilic
+Ampulla
 Ampullae
 Ampullae of Lorenzini
 Amygdala
 Amyloplasts
 Anabolic
+Anabolic hormones
+Anabolic reactions
+Anabolism
 Anaerobic
 Anaerobic cellular
+Anagen
+Anal canal
+Anal column
+Anal sinus
+Anal triangle
 Analogy
 Analytical model
 Anaphase
+Anaphylactic shock
+Anastomosis
 Anatomical dead space
+Anatomical neck
+Anatomical position
+Anatomical sphincter
+Anatomy
+Anchoring junction
+Anconeus
 Androecium
 Androgens
+Anemia
 Aneuploid
 Angina
+Angioblasts
+Angiogenesis
 Angiotensin I
 Angiotensin II
 Angiotensin converting enzyme
+Angiotensin-converting enzyme
+Angiotensinogen
+Angle of the mandible
+Angle of the rib
 Angular movements
+Anion
 Anions
+Ankle joint
+Annular ligament
+Anosmia
 Anoxic
+Antagonist
 Antenna proteins
+Anterior
+Anterior arch
+Anterior border of the tibia
+Anterior cardiac veins
+Anterior cavity
+Anterior cerebral artery
+Anterior column
+Anterior columns
+Anterior communicating artery
+Anterior compartment of the
+Anterior compartment of the leg
+Anterior corticospinal tract
+Anterior cranial fossa
+Anterior cruciate ligament
+Anterior horn
+Anterior inferior iliac spine
+Anterior interventricular artery
+Anterior interventricular sulcus
+Anterior longitudinal ligament
+Anterior median fissure
 Anterior pituitary
+Anterior sacral
+Anterior sacroiliac ligament
+Anterior scalene
+Anterior spinal artery
+Anterior superior iliac spine
+Anterior talofibular ligament
+Anterior tibial artery
+Anterior tibial vein
+Anterograde amnesia
 Anther
 Antheridium
 Anthophyta
 Anti-diuretic hormone
 Antibiotic
 Antibiotic resistance
+Antibodies
 Antibody
+Anticholinergic drugs
+Anticoagulant
 Anticodon
 Antidiuretic hormone
 Antigen
+Antigen presentation
+Antigen processing
+Antigen receptor
 Antigen-presenting cell
+Antigenic determinant
 Antioxidant
 Antipodal
 Antiporter
+Antithrombin
+Antrum
+Anulus fibrosus
 Anura
+Anuria
 Anus
 Aorta
+Aortic arch
+Aortic hiatus
+Aortic sinuses
+Aortic valve
+Apex
 Apex consumers
+Aphasia
 Aphotic zone
+Apical
 Apical bud
+Apical ectodermal ridge
 Apical meristems
+Apneustic center
 Apocrine glands
+Apocrine secretion
+Apocrine sweat gland
 Apoda
 Apodemes
 Apomixis
+Aponeurosis
 Apoptosis
 Aposematic coloration
+Appendicular
 Appendicular skeleton
+Appendix
 Applied science
 Appositional growth
+Aquaporin
 Aquaporins
 Aquatic biomes
+Aqueous humor
+Arachnoid granulation
+Arachnoid granulations
 Arachnoid mater
+Arachnoid trabeculae
 Arboreal hypothesis
 Arbuscular mycorrhizae
 Archegonium
 Archenteron
 Archosaurs
 Arcuate arteries
+Arcuate line of the ilium
+Areola
+Areolar tissue
+Arm
 Aromatic hydrocarbons
+Arrector pili
+Arterial circle
 Arteries
+Arteriole
 Arterioles
+Arteriovenous anastomosis
+Artery
+Articular capsule
+Articular cartilage
+Articular disc
+Articular tubercle
 Articulation
+Artificial pacemaker
+Ascending aorta
+Ascending colon
 Ascending limbs
+Ascending pathway
+Ascending tract
+Ascending tracts
 Ascocarp
 Ascomycota
 Ascus
 Asexual reproduction
 Assimilation
+Association area
 Assortative mating
 Assortment
+Astrocyte
 Astrocytes
 Asymmetrical
 Asymptomatic infection
+Ataxia
 Atherosclerosis
+Atlanto-occipital joint
+Atlantoaxial joint
+Atlas
+Atmospheric pressure
 Atom
 Atomic mass
 Atomic number
 Atria
 Atrial natriuretic peptide
+Atrial reflex
 Atriopore
+Atrioventricular bundle
+Atrioventricular node
+Atrioventricular septum
 Atrioventricular valve
+Atrioventricular valves
 Atrium
+Atrophy
 Attention deficit
 Attenuating
 Audition
 Auditory ossicles
+Auricle
+Auricular surface of the ilium
 Autism spectrum disorder
 Autoantibodies
+Autocrine
 Autocrine signals
 Autoimmune response
 Autoimmunity
 Autoinducers
+Autolysis
 Autonomic nervous
+Autonomic nervous system
+Autonomic tone
+Autophagy
 Autopolyploidy
+Autorhythmicity
+Autosomal chromosome
+Autosomal chromosomes
+Autosomal dominant
+Autosomal recessive
 Autosomes
 Auxins
 Avidity
+Axial
 Axial skeleton
+Axillary artery
 Axillary bud
+Axillary nerve
+Axillary vein
+Axis
 Axon
 Axon hillock
+Axon segment
+Axon terminal
 Axon terminals
+Axoplasm
 Ayan
-B
+Azygos vein
 B cells
 B horizon
+B lymphocytes
+Babinski sign
+Bachmann
 Back mutations
 Background extinction
+Bacterial flora
 Bacteriophage
 Bacteriophages
+Bainbridge reflex
 Balanced chemical equation
+Ball-and-socket joint
 Ball-and-socket joints
 Barcoding
 Bark
+Baroreceptor
+Baroreceptor reflex
+Barrier defenses
+Bartholin
+Basal cell
+Basal cell carcinoma
+Basal forebrain
 Basal ganglia
+Basal lamina
 Basal metabolic rate
 Basal nuclei
+Basal plate
 Basal taxon
 Base
+Base of the metatarsal bone
+Basement membrane
 Basic science
 Basidia
 Basidiocarp
 Basidiomycota
 Basidium
+Basilar artery
 Basilar membrane
+Basilic vein
 Basophil
+Basophils
 Batesian mimicry
 Bedrock
+Bedsore
 Behavior
 Behavioral biology
 Behavioral isolation
+Belly
 Benthic realm
+Beta -adrenergic receptor
+Beta -hydroxybutyrate
+Beta -oxidation
+Beta cell
 Beta cells
+Betz cells
+Bi
+Biaxial joint
 Bicarbonate buffer system
 Bicarbonate ions (HCO
+Biceps brachii
+Biceps femoris
+Bicipital groove
 Bicuspid valve
 Bilateral symmetry
 Bile
+Bile canaliculus
+Bile salts
+Bilirubin
+Biliverdin
 Binary fission
+Binocular depth cues
 Binomial nomenclature
 Biochemistry
 Biodiversity
 Biodiversity hotspots
 Bioenergetics
 Biofilm
+Biogenic amine
 Biogeochemical cycle
 Biogeography
 Biological community
@@ -262,41 +515,96 @@ Biomass
 Biomes
 Bioremediation
 Biosphere
+Biosynthesis reactions
 Biotechnology
 Biotic
 Biotic potential
+Bipennate
+Bipolar
+Bipolar cell
+Bipolar cells
 Bipolar neurons
 Birth rate
 Black Death
+Blastocoel
 Blastocyst
+Blastomere
 Blastomeres
 Blastopore
 Blastula
 Bleaching
+Blood
+Blood colloidal osmotic pressure
+Blood flow
+Blood hydrostatic pressure
+Blood islands
 Blood pressure
 Blood urea nitrogen
+Blood-brain barrier
 Blotting
+Body
+Body mass index
+Body of the rib
+Body of uterus
 Body plan
+Bohr effect
 Bolus
+Bond
 Bone
+Bone marrow
+Bone marrow biopsy
+Bone marrow transplant
 Bone remodeling
 Boreal forest
 Botany
 Bottleneck effect
+Bowman
 Bowman's capsule
+Boyle
+Brachial artery
+Brachial plexus
+Brachial vein
+Brachialis
+Brachiocephalic artery
+Brachiocephalic vein
+Brachioradialis
+Brain
+Brain case
+Brain stem
 Brainstem
 Branch point
+Branches
+Braxton Hicks contractions
+Brevis
+Bridge
+Broad ligament
+Broca
+Brodmann
 Bronchi
+Bronchial artery
+Bronchial bud
+Bronchial tree
+Bronchial vein
+Bronchiole
 Bronchioles
+Bronchoconstriction
+Bronchodilation
+Bronchus
+Bronchus-associated lymphoid
+Brown adipose tissue
 Brumation
+Brush border
 Bryophytes
+Buccinator
 Budding
+Buffer
 Buffer zones
 Buffers
+Buffy coat
 Bulb
 Bulbourethral gland
+Bulbourethral glands
 Bush meat
-C
 C horizon
 CA-MRSA
 CAAT box
@@ -433,6 +741,7 @@ Closed circulatory system
 Club mosses
 Cnidaria
 Cnidocyte
+CoA)
 Cochlea
 Codominance
 Codons
@@ -538,7 +847,6 @@ Cytoplasm
 Cytoskeleton
 Cytosol
 Cytotoxic T lymphocytes
-D
 DNA barcoding
 DNA fingerprinting
 DNA microarrays
@@ -621,7 +929,6 @@ Down feathers
 Down-regulation
 Duodenum
 Dura mater
-E
 Eccrine glands
 Ecdysis
 Ecdysozoa
@@ -755,7 +1062,6 @@ Extinction rates
 Extracellular domain
 Extracellular matrix
 Extremophiles
-F
 FACT
 FEV
 Facial bones
@@ -793,6 +1099,7 @@ Food chain
 Food web
 Foot
 Foraging
+Foramen
 Forced expiratory volume
 Forearm
 Foreign DNA
@@ -814,7 +1121,6 @@ Functional vital capacity
 Furcula
 Fusiform
 Fusion
-G
 G-protein
 G-protein-linked receptors
 GC-rich boxes
@@ -933,7 +1239,6 @@ Gustation
 Gymnosperms
 Gynoecium
 Gyri
-H
 HIV (human
 Habitat isolation
 Habituation
@@ -1032,7 +1337,6 @@ Hypothesis
 Hypothesis-based science
 Hypothyroidism
 Hypotonic
-I
 I molecules
 INDEX
 Ileum
@@ -1124,7 +1428,6 @@ Isotopes
 Issac
 Isthmus
 Iteroparity
-J
 J-shaped growth curve
 Jacobson's organ
 James
@@ -1134,7 +1437,6 @@ Joint
 Joni
 Juxtaglomerular cells
 Juxtamedullary nephrons
-K
 K-selected species
 Karyogamy
 Karyogram
@@ -1155,7 +1457,6 @@ Kingdom
 Koch's postulates
 Kozak
 Krebs cycle
-L
 La
 Labia majora
 Labia minora
@@ -1235,7 +1536,6 @@ Lysis buffer
 Lysogenic cycle
 Lysosomes
 Lytic cycle
-M
 MHC II molecules
 Macromolecules
 Macronutrients
@@ -1249,6 +1549,7 @@ Malpighian tubules
 Maltases
 Mammals
 Mammary glands
+Mandible
 Mantle
 Mark and recapture
 Mass extinction
@@ -1392,7 +1693,6 @@ Myofilaments
 Myopia
 Myosin
 Myxini
-N
 Nanma
 Nasal cavity
 Natural killer cells
@@ -1456,7 +1756,6 @@ Nucleotides
 Nucleus
 Nucleus-first
 Nutrients
-O
 O horizon
 Obligate aerobes
 Obligate anaerobes
@@ -1538,7 +1837,6 @@ Oxygen
 Oxygen dissociation curve
 Oxygen-carrying capacity
 Oxytocin
-P
 PCR)
 PH scale
 Pacinian corpuscles
@@ -1797,12 +2095,10 @@ Pygostyle
 Pyloric caeca
 Pyrimidines
 Pyruvate
-Q
 Quadrat
 Quaternary structure
 Quiescent
 Quorum sensing
-R
 R-selected species
 RNA editing
 RNA-binding proteins
@@ -1843,6 +2139,7 @@ Red blood cells
 Redox reactions
 Reduction
 Reductional division
+Reflex
 Reflex action
 Refractory period
 Regulatory T cells
@@ -1915,7 +2212,6 @@ Roughage
 Ruffini endings
 Ruminants
 Runners
-S
 S phase
 S ribosomal subunit
 S-shaped curve
@@ -2146,7 +2442,6 @@ Systematics
 Systemic circulation
 Systems biology
 Systole
-T
 T cells
 TCA cycle
 Tachyglossidae
@@ -2193,10 +2488,12 @@ Thermocline
 Thermodynamics
 Thermoregulation
 Thick filaments
+Thigh
 Thigmomorphogenesis
 Thigmonastic
 Thigmotropism
 Thin filaments
+This OpenStax book is available for free at http
 Thoracic cage
 Thorns
 Thylakoid lumen
@@ -2274,7 +2571,6 @@ Tubular secretion
 Tumor suppressor genes
 Tunicates
 Tympanum
-U
 Ubiquinone
 Ulna
 Ultrasound
@@ -2296,7 +2592,6 @@ Urochordata
 Urodela
 Uropygial gland
 Uterus
-V
 Vaccination
 Vaccines
 Vacuoles
@@ -2349,7 +2644,6 @@ Vital capacity
 Vitamins
 Viviparity
 Vomerine teeth
-W
 Water potential
 Wavelength
 Wax
@@ -2364,13 +2658,10 @@ Whorled
 Wild type
 Wildlife corridors
 Wrence
-X
 X inactivation
 X-linked
 Xylem
-Y
 Yolk sac
-Z
 Zero population growth
 Zona pellucida
 Zoology
@@ -4756,9 +5047,11 @@ Zygospores
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\zona pellucida\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\zoonotic diseases\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\zygospores\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ²\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
-ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
-ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
-ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ²\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
+ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
+ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
+ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
+Α-dextrin
+Α-dextrinase
